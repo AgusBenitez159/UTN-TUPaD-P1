@@ -1,4 +1,4 @@
-# TP 1 - Estructuras condicionales
+# TP 3 - Estructuras condicionales
 # Tomás Agustín Benítez
 # Ejercicios de práctica
 
